@@ -2614,6 +2614,7 @@ Disguy
 - [Srikant V S](https://https://github.com/srikantvs)
 - [TyraLizQ10](https://github.com/TyraLizQ10)
 - [Stian Martinsen](https://github.com/stian-git)
+- [Amit Chauhan](https://github.com/amitchauhanforce)
 - [Ashley James Ivin Foster](https://github.com/ajifoster3)
 - [Akhil Parmar](https://github.com/parmarakhil)
 - [Iuri Mendes](https://github.com/fcoiuri)
